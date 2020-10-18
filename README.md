@@ -31,8 +31,11 @@ node .
 localhost:3000
 ```
 
-### Demo
+### Demo video
+link: https://youtu.be/eKy_IaUTmDA
 
+### Screenshot
+ 
  chrome login
 
 <img width="453" alt="Screen Shot 2020-10-18 at 12 12 55" src="https://user-images.githubusercontent.com/66505438/96358932-2d90ac80-113f-11eb-99b0-bebd9f6a7860.png">
