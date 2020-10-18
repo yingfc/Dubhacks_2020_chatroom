@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1" /> -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Dubhacks chatroom</title>
+  </head>
+  <body>
+    <main>
+      <header>
+        <div class="user-count fa fa-user">0</div>
+        <h1>Dubhacks chatroom</h1>
+      </header>
+      <section class="chat"></section>
+      <form>
+        <input type="text" placeholder="Enter your message" />
+        <button>Send</button>
+      </form>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://unpkg.com/cookie_js@1.2.2/cookie.min.js"></script>
+    <script src="https://unpkg.com/socket.io-client@2.3.0/dist/socket.io.slim.js"></script>
+    <script src="server.js"></script>
+  </body>
+  <footer>&copy;2020 Dubhacks</footer>
+</html>
