@@ -18,13 +18,17 @@ npm --version
 ### Installation
 
 1. Clone the repo
-```sh
+```
 git clone https://github.com/yingfc/Dubhacks_2020_chatroom.git
 ```
-2. Run
-```sh
+2. Start server
+```
 npm init
 node .
+```
+3. Run
+```
+localhost:3000
 ```
 
 ### Demo
