@@ -31,3 +31,7 @@ node .
 ![chrome login](https://ibb.co/ydFGK1G)
 ![safari login](https://ibb.co/hdxskFp)
 ![overview](https://ibb.co/Gd4ksRz)
+
+<img width="453" alt="Screen Shot 2020-10-18 at 12 12 55" src="https://user-images.githubusercontent.com/66505438/96358932-2d90ac80-113f-11eb-99b0-bebd9f6a7860.png">
+<img width="452" alt="Screen Shot 2020-10-18 at 12 14 39" src="https://user-images.githubusercontent.com/66505438/96358937-35e8e780-113f-11eb-8c92-92def0130ad4.png">
+<img width="1914" alt="Screen Shot 2020-10-18 at 12 36 31" src="https://user-images.githubusercontent.com/66505438/96358938-38e3d800-113f-11eb-82c2-44140be10d41.png">
